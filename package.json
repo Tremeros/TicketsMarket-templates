@@ -1,0 +1,14 @@
+{
+  "name": "ticketsmarket",
+  "version": "1.0.0",
+  "description": "template for ticketsmarket app",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Paweł",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
